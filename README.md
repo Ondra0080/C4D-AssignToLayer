@@ -32,7 +32,7 @@ Each language version is a standalone plugin with fixed language (no runtime loc
 
 ### macOS
 ```
-/Applications/Maxon Cinema 4D 2024/plugins/
+/Applications/Maxon Cinema 4D 20##/plugins/
 ```
 
 or user plugins:
@@ -44,12 +44,12 @@ or user plugins:
 
 User plugins (recommended):
 ```
-C:\Users\YOUR_USERNAME\AppData\Roaming\Maxon\Maxon Cinema 4D 2024\plugins\
+C:\Users\YOUR_USERNAME\AppData\Roaming\Maxon\Maxon Cinema 4D 20##\plugins\
 ```
 
 **System-wide plugins:**
 ```
-C:\Program Files\Maxon Cinema 4D 2024\plugins\
+C:\Program Files\Maxon Cinema 4D 20##\plugins\
 ```
 
 4. Restart Cinema 4D
