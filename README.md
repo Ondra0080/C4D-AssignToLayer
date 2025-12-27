@@ -37,7 +37,7 @@ Each language version is a standalone plugin with fixed language (no runtime loc
 
 or user plugins:
 ```
-~/Library/Preferences/Maxon/Maxon Cinema 4D 2024/plugins/
+~/Library/Preferences/Maxon/Maxon Cinema 4D 20##/plugins/
 ```
 
 ### Windows
