@@ -82,6 +82,23 @@ Suggested screenshot filenames:
 - Cinema 4D 2024.x
 
 ---
+ ## ⬇️ Download
+
+Ready-to-use plugin packages are available via **GitHub Releases**.
+
+👉 Go to **Releases** and download one of the following ZIP files:
+
+- **AssignToLayer_CS.zip** – Czech version  
+- **AssignToLayer_EN.zip** – English version  
+
+Each ZIP contains a standalone Cinema 4D plugin.  
+Simply unzip and copy the plugin folder into your Cinema 4D `plugins` directory.
+
+> Note: The **Code → Download ZIP** button downloads the entire repository  
+> (source code + documentation). For end users, always use **Releases**.
+ 
+
+---
 
 ## 📄 License
 
