@@ -64,9 +64,13 @@ C:\Program Files\Maxon Cinema 4D 20##\plugins\
    - You can select a parent or just a child
 2. Run **AssignToLayer (CS)** or **AssignToLayer (EN)**
 3. Choose:
-   - an existing layer  
+   - an existing layer
+     ![screenshot](doc/05_assign_existing_layer.png)  
+   
    **or**
    - enter a name for a new layer
+     ![screenshot](doc/06_assign_new_layer.png)
+     
 4. Confirm → objects are assigned
 
 Undo is supported via **Cmd/Ctrl + Z**.
