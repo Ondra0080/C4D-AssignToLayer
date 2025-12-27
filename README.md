@@ -1,3 +1,5 @@
+![screenshot](doc/00_head.png)
+
 # C4D–AssignToLayer
 
 **Assign selected object hierarchies to layers in Cinema 4D — fast and safely.**
