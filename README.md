@@ -41,17 +41,16 @@ or user plugins:
 ```
 
 ### Windows
-Copy the plugin folder into one of the following locations:
 
 User plugins (recommended):
-...
+```
 C:\Users\YOUR_USERNAME\AppData\Roaming\Maxon\Maxon Cinema 4D 2024\plugins\
-...
+```
 
 **System-wide plugins:**
-...
+```
 C:\Program Files\Maxon Cinema 4D 2024\plugins\
-...
+```
 
 4. Restart Cinema 4D
 
