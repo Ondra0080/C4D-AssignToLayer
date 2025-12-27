@@ -54,6 +54,8 @@ C:\Program Files\Maxon Cinema 4D 2024\plugins\
 
 4. Restart Cinema 4D
 
+![screenshot](doc/01_command_manager.png)
+
 ---
 
 ## 🚀 Usage
