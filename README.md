@@ -24,6 +24,7 @@ Each language version is a standalone plugin with fixed language (no runtime loc
 - Works with **Cinema 4D 2024+**
 
 ![screenshot](doc/03-new-layer.gif)
+*Assign to a new layer*
 
 
 ## 📦 Installation
@@ -60,6 +61,9 @@ C:\Program Files\Maxon Cinema 4D 20##\plugins\
 
 
 ## 🚀 Usage
+
+![screenshot](doc/04-select-child.gif)
+*Select a child*
 
 1. Select one or more objects in the **Object Manager**
    - You can select a parent or just a child
