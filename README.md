@@ -24,6 +24,8 @@ Each language version is a standalone plugin with fixed language (no runtime loc
 - Separate CS / EN plugins for maximum stability
 - Works with **Cinema 4D 2024+**
 
+![screenshot](doc/03-new-layer.gif)
+
 ---
 
 ## 📦 Installation
