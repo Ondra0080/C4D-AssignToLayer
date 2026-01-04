@@ -12,7 +12,6 @@ The plugin is available in **two separate language versions**:
 
 Each language version is a standalone plugin with fixed language (no runtime localization, no .str files).
 
----
 
 ## ✨ Features
 
@@ -26,7 +25,6 @@ Each language version is a standalone plugin with fixed language (no runtime loc
 
 ![screenshot](doc/03-new-layer.gif)
 
----
 
 ## 📦 Installation
 
@@ -60,11 +58,8 @@ C:\Program Files\Maxon Cinema 4D 20##\plugins\
 
 ![screenshot](doc/01_command_manager.png)
 
----
 
 ## 🚀 Usage
-
-![screenshot](doc/03-new-layer.png)
 
 1. Select one or more objects in the **Object Manager**
    - You can select a parent or just a child
@@ -81,13 +76,12 @@ C:\Program Files\Maxon Cinema 4D 20##\plugins\
 
 Undo is supported via **Cmd/Ctrl + Z**.
 
----
 
 ## 🧪 Tested on
 
 - Cinema 4D 2024.x
 
----
+
  ## ⬇️ Download
 
 Ready-to-use plugin packages are available via **GitHub Releases**.
@@ -104,13 +98,10 @@ Simply unzip and copy the plugin folder into your Cinema 4D `plugins` directory.
 > (source code + documentation). For end users, always use **Releases**.
  
 
----
-
 ## 📄 License
 
 MIT License  
 
----
 
 ## 🙌 Credits
 
