@@ -83,24 +83,6 @@ Undo is supported via **Cmd/Ctrl + Z**.
 
 ---
 
-## 🖼 Screenshots & Video
-
-Put screenshots and a short demo video here:
-- `docs/screenshots/`
-- `docs/video/`
-
-Suggested screenshot filenames:
-- `01_command_manager.png`
-- `02_toolbar.png`
-- `03_scene_before.png`
-- `04_dialog.png`
-- `05_assign_existing_layer.png`
-- `06_assign_new_layer.png`
-- `07_child_selection.png`
-- `08_undo.png` *(optional)*
-
----
-
 ## 🧪 Tested on
 
 - Cinema 4D 2024.x
@@ -127,7 +109,6 @@ Simply unzip and copy the plugin folder into your Cinema 4D `plugins` directory.
 ## 📄 License
 
 MIT License  
-© Ondřej Bahula
 
 ---
 
