@@ -62,6 +62,8 @@ C:\Program Files\Maxon Cinema 4D 20##\plugins\
 
 ## 🚀 Usage
 
+![screenshot](doc/03-new-layer.png)
+
 1. Select one or more objects in the **Object Manager**
    - You can select a parent or just a child
 2. Run **AssignToLayer (CS)** or **AssignToLayer (EN)**
